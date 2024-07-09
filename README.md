@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XPromus
 - 👀 I’m interested in App Development
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Shader Programming
 
 <!---
 XPromus/XPromus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
