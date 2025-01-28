@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @XPromus
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Shader Programming
+Mostly Unity developer.
 
 # Tech Stack:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
