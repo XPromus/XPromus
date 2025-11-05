@@ -1,4 +1,7 @@
-Computer Science Student, who works as a Unity developer at my universities' architecture department for half-timbered houses.
+Computer science student, with a specialization as a Unity developer.
+Worked at my university's architecture department for half-timbered houses and Mohn Technology AS in Bergen, Norway, with Unity.
+
+Currently a teacher at my university for web engineering.
 
 # Tech Stack:
 ![Unity](https://img.shields.io/badge/unity-%23323330.svg?style=for-the-badge&logo=unity&logoColor=white)
