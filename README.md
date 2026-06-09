@@ -1,7 +1,9 @@
-Computer science student, with a specialization as a Unity developer.
-Worked at my university's architecture department for half-timbered houses and Mohn Technology AS in Bergen, Norway, with Unity.
+Computer science student with a specialization as a Unity and full-stack web developer.
+Worked at my university's architecture department for half-timbered houses as a Unity developer for interactive building simulations and Mohn Technology AS in Bergen, Norway, as a Unity developer for AUV simulations.
 
-Currently a teacher at my university for web engineering.
+Currently a teacher at my university for web engineering and writing my master's thesis.
+Thesis topic: Development of an algorithm for parameterized generation of a realistic
+finishing-pen net with defects and marine growth for an AUV simulation
 
 # Tech Stack:
 ![Unity](https://img.shields.io/badge/unity-%23323330.svg?style=for-the-badge&logo=unity&logoColor=white)
