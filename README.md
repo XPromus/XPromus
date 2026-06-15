@@ -1,13 +1,26 @@
 Computer science student with a specialization as a Unity and full-stack web developer.
-Worked at my university's architecture department for half-timbered houses as a Unity developer for interactive building simulations and Mohn Technology AS in Bergen, Norway, as a Unity developer for AUV simulations and web tools.
 
-Currently a teacher at my university for web engineering and computergraphics and writing my master's thesis.
-Thesis topic: Development of an algorithm for parameterized generation of a realistic
+# Work experience:
+- **Teacher for web engineering and computergraphics**
+  - Teaching Spring Boot using Kotlin, Svelte with TypeScript
+  - Deployment using Podman and Docker
+  - Extensive software testing
+  - Fundamentals and development of 3D computergraphics
+- **Unity and full-stack web developer at my university's architecture department for half-timbered houses**
+  - Application development with Unity for interactive architecture displays
+  - Development of web tools for storing information about half-timbered houses using Svelte with TypeScript and Spring with Kotlin
+- **Simulation developer with Unity at Mohn Technology AS**
+  - Developed an AUV simulator in the Unity engine
+  - Created extensive documentation in Typst for the simulator
+  - Developed a presentation tool for the web using Svelte, TypeScript, and Pocketbase
+
+# Projects in university
+- **University timetable**
+  - Developed the frontend for my university's timetable using React and TypeScript
+- **Typst templates for usage by students**
+
+Currently writing my master's thesis on the following topic: Development of an algorithm for parameterized generation of a realistic
 finishing-pen net with defects and marine growth for an AUV simulation
-
-Web Technologies for personal projects and web engineering course:
-Backend: Spring with Kotlin
-Frontend: Svelte with Typescript
 
 # Tech Stack:
 ![Unity](https://img.shields.io/badge/unity-%23323330.svg?style=for-the-badge&logo=unity&logoColor=white)
